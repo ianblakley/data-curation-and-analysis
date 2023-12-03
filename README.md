@@ -1,6 +1,8 @@
 # Data Curation and Analysis
 **Project goal:** My goal for this project was to create a dataframe for the top 200 highest grossing movies of all time, and use this dataframe to create descriptive statistics and visualizations of the data.
 
+**License:** MIT License
+
 **Source:** All project data comes directly from this website: https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW
 
 **Data Type:** The data is made entirely of strings (movie title), integers (rank and year released), and floats (lifetime gross in USD).
